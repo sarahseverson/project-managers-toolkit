@@ -22,6 +22,10 @@ This section contains a list of tools for project management used by FSU Librari
 
 [Trello](https://trello.com) is an application for tracking tasks. It allows you to move individual cards (representing tasks) as they enter different phases. Trello allows you to assign tasks to different collaborators, create due dates, and provide contextual information for the tasks to be completed.
 
+FSU Libraries' Office of Digital Research and Scholarship uses Trello to manage its tasks. There is a "General" board that manages all of the top-level projects that DRS is working on. For example, each card will represent a larger initiative or project that the office is working on. This board represents the "big-picture" for the office. There are also boards for individual projects, which track the small tasks that need to be completed. So, for example the *Il secolo* project has its own board, which has cards for small website updates, digitization needs, and communication tasks.
+
+The Data Management Team has also been experimenting with Trello for tracking consultations. They use a template card that contains all of the information needed for creating new Data Management Plans (name of PI, grant applied for, due date, etc). They also use some standard checklists in the template card. This card can easily be copied so that the Data Management Team could consistently capture the same data and perform the same tasks for every consultation. It also gives them an easy method for tracking who to follow up with. 
+
 **Benefits:**
 
 * very similar to analog/paper SCRUM boards
@@ -41,6 +45,8 @@ This section contains a list of tools for project management used by FSU Librari
 
 [Google Apps](http://drive.google.com) (specifically, Google Drive) is a suit of tools for creating documents collaboratively and sharing information. Google Apps include a text, spreadsheet, and slide editor, as well as applications for drawing, organizing calendars, and sharing (but not editing) other types of files.
 
+FSU Libraries uses Google Docs for drafting project documentation, sharing meeting agendas, and collaboratively editing meeting notes. Since many authors can edit documents at the same time, it is a great tool for real time collaboration. However, since it does allow for so much editing, we preserve static forms of documentation using SharePoint.
+
 **Benefits:**
 
 * easy to share documents with large teams for collaboration
@@ -53,6 +59,8 @@ This section contains a list of tools for project management used by FSU Librari
 ### 3. SharePoint
 
 **Uses and Overview**
+
+FSU Libraries uses Sharepoint to organize its internal documentation.
 
 **Benefits**
 

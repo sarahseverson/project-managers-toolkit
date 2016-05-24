@@ -60,11 +60,18 @@ FSU Libraries uses Google Docs for drafting project documentation, sharing meeti
 
 **Uses and Overview**
 
-FSU Libraries uses Sharepoint to organize its internal documentation.
+FSU Libraries uses Sharepoint to organize its internal documentation. Sharepoint allows you to organize teams into different sites, all of which can have team discussions, shared documents, updates, resources, etc. Each team at FSU has a site (which functions like a wiki) where team members post updates about different projects, hold static versions of documentation, and share updates. Sharepoint also allows you to create different permissions for different sites and pages. So, for example, some pages could be view-only for certain members, or not viewable at all. This allows you to be open about projects, but also keep certain documents private.
 
 **Benefits**
 
+* allows users to combine document organization with web-pages
+* wiki-like organization of resources
+* permissions management
+
 **Drawbacks**
+
+* can be very fragile (editing has quirks, especially if you leave pages in edit mode for too long)
+* WYSIWYG editor is not intuitive
 
 ### 4. Slack
 
@@ -97,7 +104,7 @@ It is useful to use this time to answer questions about cost/benefit and the ext
   * What is the scope of the project? (specifically, what's not in scope...)
   * How will we know the the project is done?
 * Who are the stakeholders?
-  * Who is the end user audience?Who?
+  * Who is the end user audience?
   * Who is going to work on the project?
   * Who is managing the project?
   * Who is/are the sponsors of the project?
@@ -120,4 +127,4 @@ Drafting the charter is an iterative process:
  
 <h2 id="section3">Miscellaneous documents</h2>
 
-**Include workflow charts and other documents here**
+[Project Management Workflow Chart](https://docs.google.com/drawings/d/1xv41626kqjXwhV_UXsvX6vJ9kOjPYqEEpfnE6ZCSeeY/edit?usp=sharing)

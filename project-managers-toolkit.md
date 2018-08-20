@@ -1,6 +1,6 @@
 # FSU Project Management Toolkit
 
-**Note** This document is based off of a [the project management toolkit](https://github.com/clirdlf/project-managers-toolkit/blob/master/project-managers-toolkit.md), created by the DLF Project Managers Group. All statements made are based off of testimonials and narratives written by contributors.
+**Note** This document is based off of a [the project management toolkit](https://wiki.diglib.org/DLF_Project_Managers_Toolkit), created by the DLF Project Managers Group. All statements made are based off of testimonials and narratives written by contributors.
 
 ## Contents
 
